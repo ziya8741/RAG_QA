@@ -62,7 +62,7 @@ Get your free Groq API key at https://console.groq.com
 streamlit run app_huggingfaceembedding.py
 ```
 
-Then open http://localhost:8501 in your browser.
+
 
 ---
 
